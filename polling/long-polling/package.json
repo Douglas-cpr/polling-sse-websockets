@@ -1,0 +1,15 @@
+{
+  "name": "long-polling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:server": "node server.js",
+    "start:client": "node client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
