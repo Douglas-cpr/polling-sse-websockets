@@ -5,5 +5,4 @@ async function longPollingExample() {
   longPollingExample()
 }
 
-
 longPollingExample()

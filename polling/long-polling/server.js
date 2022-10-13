@@ -1,6 +1,5 @@
 // IN THIS APPROACH ALL CONNECTIONS FROM REQUESTS ARE HOLD 
 // UNTIL THE SERVER PRECESSING IS OVER
-
 import http from 'node:http'
 
 const port = 8080
